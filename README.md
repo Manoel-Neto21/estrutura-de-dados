@@ -1,2 +1,5 @@
 # estrututa-de-dados
- Repositório de focado em armazenhar documentos de estrutura de dados
+
+Olá pessoal, tudo certo?
+
+ Este repositório tem foco em armazenar documentos e programas de estrutura de dados
