@@ -1,1 +1,9 @@
-print("ola mundo") 00000
+
+input("Qual seu nome?")
+print(input)
+
+
+
+
+
+
